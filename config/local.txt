@@ -2,7 +2,7 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
-4K频道,#genre#
+
 CCTV-4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
 CCTV-4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
 CCTV-4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
@@ -34,7 +34,6 @@ FASHION4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_de
 LOUPE4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
-央视,#genre#
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -109,7 +108,9 @@ CCTV5+,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8
 CCTV6,http://1.180.2.93:9901/tsfile/live/1064_1.m3u8
 CCTV8,http://1.180.2.93:9901/tsfile/live/1065_1.m3u8
 CCTV9,http://1.180.2.93:9901/tsfile/live/1066_1.m3u8
-卫视,#genre#
+
+
+
 安徽卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226455/index.m3u8
 安徽卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226578/index.m3u8
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
@@ -194,7 +195,9 @@ CCTV9,http://1.180.2.93:9901/tsfile/live/1066_1.m3u8
 重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
 内蒙古卫视,http://1.180.2.93:9901/tsfile/live/1068_1.m3u8
 内蒙古卫视2蒙古语,http://1.180.2.93:9901/tsfile/live/1030_1.m3u8
-纪实,#genre#
+
+
+
 CCTV-9纪录,http://[2409:8087:4400:20:1:a0f:12:f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226482/index.m3u8
 CCTV-9纪录,http://[2409:8087:4402:20:1:1216:401:3a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/index.m3u8
 精品纪录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
@@ -215,7 +218,8 @@ CCTV-9纪录,http://[2409:8087:4402:20:1:1216:401:3a]/iptv.cdn.ha.chinamobile.co
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
 
-影视,#genre#
+
+
 CCTV-6,http://[2409:8087:4400:20:1:70f:1011:1a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226485/index.m3u8
 CCTV-6,http://[2409:8087:4402:20:1:1216:401:36]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8
 CCTV-8,http://[2409:8087:4400:20:1:70f:1011:1c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
@@ -242,7 +246,8 @@ SiTV欢笑剧场,http://[2409:8087:4402:20:1:1216:401:39]/iptv.cdn.ha.chinamobil
 红高粱,https://txmov2.a.kwimgs.com/upic/2023/02/13/15/BMjAyMzAyMTMxNTIwNDFfNzM5MzQzNzIyXzk2MTI5MjUzMTA3XzBfMw==_b_B61a37e0ac4bde70e8b83b663bf6f8500.mp4
 开国大典,https://txmov2.a.kwimgs.com/upic/2023/02/13/16/BMjAyMzAyMTMxNjQ3MDVfNzM5MzQzNzIyXzk2MTM0MjQxMTA3XzBfMw==_b_B7d2ca994a56de18f37a0b61554ef71ba.mp4
 
-港澳台,#genre#
+
+
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
@@ -272,7 +277,8 @@ GOODTV卡通[1280x720],https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 新加坡国际[1280x720],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
-综艺,#genre#
+
+
 NewTV东北热剧,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225741
 NewTV军事评论,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225668
 NewTV军旅剧场,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225676
@@ -320,7 +326,8 @@ NewTV金牌综艺,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225666
 农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 农业致富,http://ottrrs.hl.chinamobile.com/PLYT/88888888/224/3221225683/index.m3u8
 
-地方,#genre#
+
+
 濮阳公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 濮阳公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
 濮阳综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226378/index.m3u8
@@ -562,7 +569,8 @@ BIP,https://biptv.tv/live/biptvstream_orig/index.m3u8
 AsiaFM HD音乐台,http://asiafm.hk:8000/asiahd
 51 TV,https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 
-河南移动,#genre#
+
+
 CCTV-1,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226706/index.m3u8
 CCTV-1,http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV-1,http://[2409:8087:4402:20:1:1216:401:31]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227031/index.m3u8
