@@ -3,6 +3,7 @@
 
 
 https://fengherili-lzm.github.io/ydds20250715.txt
+https://raw.githubusercontent.com/lizanyang3/lizanyang3.github.io/refs/heads/main/hn.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
