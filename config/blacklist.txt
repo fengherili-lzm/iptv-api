@@ -2,7 +2,8 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 
-
+rtsp:
+rtmp:
 http://[2409:8087:1a01:df
 2409:8087:1a01:df
 home.kaijuns.cn:4000
@@ -11,7 +12,6 @@ www.lizhinas.top:1009
 http://wouu.net:9977
 otttv.bj.chinamobile.com
 6610/yinhe/
-rtsp://
 http://php.jdshipin.com
 http://z.b.bkpcp.top
 http://182.150.23.74:808
@@ -20,7 +20,6 @@ https://ali-m-l.cztv.com
 http://j.x.bkpcp.top
 http://goo.bkpcp.top
 http://dsj.motem.top
-rtmp://
 http://php.jdshipin.com
 http://wouu.net:9977/rtp/
 https://ali-m-l.cztv.com
