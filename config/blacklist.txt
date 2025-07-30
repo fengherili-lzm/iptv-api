@@ -4,6 +4,7 @@
 
 rtsp:
 rtmp:
+smil
 http://[2409:8087:1a01:df
 2409:8087:1a01:df
 home.kaijuns.cn:4000
