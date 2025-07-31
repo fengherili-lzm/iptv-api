@@ -13,7 +13,7 @@ CCTV16-4K
 苏州4K
 爱上4K
 百事通动画4K
-南国都市
+南国都市4K
 LOVENATURE4K
 FASHION4K
 LOUPE4K
@@ -108,17 +108,12 @@ CCTV-9纪录
 探索亚洲
 探索频道
 
-
-
-
 💰财经频道#genre#
 财富天下
 东方财经
 第一财经
 北京财经
 湖北经视
-
-
 
 🎬影视频道,#genre#
 CCTV-6
